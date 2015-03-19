@@ -1,0 +1,50 @@
+h1 {
+   color: blue;
+   font: 30px; 
+   text-align: center;
+}
+
+h2 {
+	color: red;
+	font: 25px;
+	text-align: center;
+
+}
+
+h3{
+	font-style: italic;
+	font: small-caps;
+}
+
+.column h3{
+	font-size: 40px;
+	color: green;
+
+}
+
+p{
+	font-style: italic;
+	font-family: sans-serif;
+	line-height: 40px;
+}
+
+.best{
+	font-size: 25px;
+	color: red;
+	font-style: italic;
+}
+
+.column{
+	float: left;
+	margin-right: 5px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	margin-top: 15px;
+	width: 30%;
+	border: 2px solid green;
+	padding: 2px;
+}
+
+.down{
+	text-align: center;
+}

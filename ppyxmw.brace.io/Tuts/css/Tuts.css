@@ -1,0 +1,132 @@
+body{
+font-family: 'Lobster', cursive;
+background-color: #e3e3e3;
+margin: 0;
+}
+
+
+.wrap{
+min-width: 500px;
+width: 80%;
+margin: auto;
+background: orange;
+overflow: hidden;
+}
+
+
+
+
+h1{
+	background: url(../img/logo.jpeg) no-repeat;
+	text-indent: 99px;
+	width: 94px;
+	height: 102px;
+	color: green;
+	letter-spacing: -1px;
+	text-shadow: 
+	1px -1px 0 red,
+	2px -2px 0 white,
+	3px -3px 0 blue;
+}
+
+blockquote{
+border: 1px solid white;
+text-align: center;
+}
+
+aside{
+	background-color: green;
+	float: right;
+	width: 20%;
+}
+
+.main-content{
+	background: grey;
+	float: left;
+	width: 80%;
+}
+
+.main-content, aside{
+	height: 600px;
+}
+
+aside ul, aside h2{
+	padding-left: 10px;
+	list-style: none;
+}
+
+.main-content h2, .main-content p, .main-content ul, blockquote, h1, .topbar li{
+	margin-left: 15px;	
+	margin-right: 15px;
+}
+
+.topbar li{
+	display: inline;
+
+}
+
+li a{
+	text-decoration: none;
+}
+
+ul a:hover{
+font-weight: bold;
+}
+
+form li{
+	list-style-type: none;
+	margin-bottom: 20px; 
+}
+
+label{
+	display: block;
+	cursor: pointer;
+	color: 292929;
+	font-family: sans-serif;
+	padding-bottom: 10px
+}
+
+form ul{
+	padding-left: 0;
+}
+
+textarea{
+	width: 200px ;
+	height: 150px ;
+}
+
+.boxwrap{
+	width: 800px;
+	height: 1000px;
+	margin: auto;
+	background: white;
+	position: relative;
+	top: 20px;
+}
+
+.box {
+	width: 40px;
+	height: 40px;
+	background: red;
+	margin: auto;
+	position: absolute;
+	top: 20px; left: -20px;
+}
+
+#economist{
+	font-size: 40px;
+	font-family: sans-serif;
+	color: white;
+	margin: -2px 6px;
+}
+
+
+
+
+
+
+
+
+
+
+

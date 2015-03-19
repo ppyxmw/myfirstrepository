@@ -1,0 +1,14 @@
+body{
+	background: rgb(227, 223, 226);
+	font-family: sans-serif;
+}
+
+.wrap{
+	width: 500px;
+	margin: auto;
+}
+
+text-align: center;
+border: 1px solid white;
+margin-left: 0;
+}

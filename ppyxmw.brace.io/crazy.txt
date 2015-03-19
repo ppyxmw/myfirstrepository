@@ -1,0 +1,13 @@
+./Boring-lecture/index.html
+./Favthings/Index.html
+./FirstWebsite/index.html
+./Landing/index.html
+./MyCat/bootycat.html
+./MyCat/Boring-lecture.html
+./MyCat/Index.html
+./New-webpage/new-webpage.html
+./Tuts/html/Box.html
+./Tuts/html/forms.html
+./Tuts/index.html
+./Tuts/Reproduce/Reproduce.html
+./Twitter-Bootstrap/Bootstrap.html

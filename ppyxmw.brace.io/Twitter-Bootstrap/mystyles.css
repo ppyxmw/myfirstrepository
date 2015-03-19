@@ -1,0 +1,27 @@
+@media (max-width: 768px) {
+  .my-class {
+    display: none; 
+  }
+}
+
+
+ol{
+	color: blue;
+}
+
+
+#first-list li:nth-child(2){
+	color: purple;
+	font-size: 15px;
+}
+
+
+.last-list li:nth-child(2){
+	color: red;
+}
+
+ul:first-of-type li:nth-child(1){
+	font-style: italic;
+	font-size: 20px;
+	color: green;
+}

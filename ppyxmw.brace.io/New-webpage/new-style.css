@@ -1,0 +1,17 @@
+h1{
+text-align: center;
+}
+
+h2{
+text-align: center;
+}
+
+.header{
+	font-size: 40px;
+	color: blue;
+}
+
+.important{
+	color: red;
+	font-style: italic;
+}
